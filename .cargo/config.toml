@@ -10,3 +10,4 @@ time = "run --quiet --release -- time"
 
 [env]
 AOC_YEAR = "2024"
+AOC_SESSION = "53616c7465645f5fd3d2176bf311bf1a7109b40cca1bd8bb65edd6ef2f9553a01a1362e2498589b7b3e817b6aa6d78d313019cf4175f1608d7b247b866f94476"
